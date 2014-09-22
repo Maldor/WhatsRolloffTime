@@ -1,0 +1,16 @@
+{
+  "author": "Maldor96", 
+  "build": "71937", 
+  "category": [
+    "in-game", 
+    "server-mod"
+  ], 
+  "context": "server", 
+  "date": "2014/09/19", 
+  "description": "Changing the Ubershot to be more useful", 
+  "display_name": "UberCannon Changes", 
+  "enabled": true, 
+  "identifier": "com.Maldor96.Weapons.UberCannon", 
+  "version": "1.0",
+  "priority": 100
+}
