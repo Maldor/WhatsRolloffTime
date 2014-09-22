@@ -11,6 +11,6 @@
   "display_name": "UberCannon Changes", 
   "enabled": true, 
   "identifier": "com.Maldor96.Weapons.UberCannon", 
-  "version": "1.0",
-  "priority": 100
+  "priority": 100, 
+  "version": "1.0"
 }
