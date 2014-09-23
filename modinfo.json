@@ -6,11 +6,11 @@
     "server-mod"
   ], 
   "context": "server", 
-  "date": "2014/09/19", 
-  "description": "Changing the Ubershot to be more useful", 
-  "display_name": "UberCannon Changes", 
+  "date": "2014/09/22", 
+  "description": "Remove the rolloff time", 
+  "display_name": "Rolloff remover", 
   "enabled": true, 
-  "identifier": "com.Maldor96.Weapons.UberCannon", 
+  "identifier": "com.Maldor96.Factories.RolloffRemove", 
   "priority": 100, 
   "version": "1.0"
 }
