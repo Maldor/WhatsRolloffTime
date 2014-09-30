@@ -11,6 +11,7 @@
   "display_name": "Rolloff remover", 
   "enabled": true, 
   "identifier": "com.Maldor96.Factories.RolloffRemove", 
-  "priority": 100, 
+  "priority": 100,
+  "forum": "https://forums.uberent.com/threads/wip-maldors-mini-mods.64495/",
   "version": "1.0"
 }

@@ -39,7 +39,7 @@
       "effect_scale": 1.5
     }
   }, 
-  "factory_cooldown_time": 8, 
+  "factory_cooldown_time": 1, 
   "fx_offsets": [
     {
       "bone": "socket_muzzle01", 

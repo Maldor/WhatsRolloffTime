@@ -34,7 +34,7 @@
       "effect_scale": 2.5
     }
   }, 
-  "factory_cooldown_time": 4, 
+  "factory_cooldown_time": 1, 
   "fx_offsets": [
     {
       "bone": "bone_centerHalo", 
