@@ -1,17 +1,17 @@
 {
   "author": "Maldor96", 
-  "build": "75771-pte", 
+  "build": "77443", 
   "category": [
     "in-game", 
     "server-mod"
   ], 
   "context": "server", 
-  "date": "2014/12/08", 
+  "date": "2015/02/02", 
   "description": "Remove the rolloff time", 
   "display_name": "Rolloff remover", 
   "enabled": true, 
   "identifier": "com.Maldor96.Factories.RolloffRemove", 
   "priority": 100,
   "forum": "https://forums.uberent.com/threads/wip-maldors-mini-mods.64495/",
-  "version": "1.2"
+  "version": "1.2.0.1"
 }
