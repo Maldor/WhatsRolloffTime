@@ -1,6 +1,6 @@
 {
   "author": "Maldor96", 
-  "build": "77443", 
+  "build": "79317", 
   "category": [
     "in-game", 
     "server-mod"
@@ -13,5 +13,5 @@
   "identifier": "com.Maldor96.Factories.RolloffRemove", 
   "priority": 100,
   "forum": "https://forums.uberent.com/threads/wip-maldors-mini-mods.64495/",
-  "version": "1.2.0.1"
+  "version": "1.3"
 }
